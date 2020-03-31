@@ -5,4 +5,4 @@ In biology, network models are most useful representation of interaction includi
 Also, with RCy3, we will be able to quickly deliver reproducible network biology workflows as integrations of Cytoscape functions, complex custom analyses and other R packages.
 
 ## Basic Code
-[Basic_Code](https://github.com/dA505819/Uses_of_RCy3/blob/master/BasicCode.md)
+[Basic Code](https://github.com/dA505819/Uses_of_RCy3/blob/master/BasicCode.md)
