@@ -1,3 +1,6 @@
+
+# Basic Code
+
 Here I demonstrate a some basic usage of RCy3 package with building a network using igraph which helps in accurately understanding the data through networks.
 ```
 install.packages("igraph")
@@ -33,6 +36,6 @@ A network is created from igraph with the name SampleIgraph.
 
 The network created is as shown:
 
-
+![network](https://github.com/dA505819/Uses_of_RCy3/blob/master/images/Capture.JPG)
 
 
